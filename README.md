@@ -30,7 +30,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NgxChartModule } from 'angular-advance-chart';
+import { AngularAdvanceChartModule } from 'angular-advance-chart';
 @NgModule({
   declarations: [
     AppComponent
@@ -38,7 +38,7 @@ import { NgxChartModule } from 'angular-advance-chart';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgxChartModule
+    AngularAdvanceChartModule
   ],
   providers: [],
   bootstrap: [AppComponent]
