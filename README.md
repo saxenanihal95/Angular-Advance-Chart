@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/SomeshKb/angular-advance-chart/blob/main/images/donut-chart.png?raw=true)
 ![alt text](https://github.com/SomeshKb/angular-advance-chart/blob/main/images/pie-chart.png?raw=true)
-https://github.com/SomeshKb/Advance-Angular-Chart/blob/main/images/bar-graph.png
+
 ## Installation
 
 To use ngx-chatbox in your project install it via [npm](https://www.npmjs.com/package/angular-advance-chart):
@@ -50,7 +50,7 @@ export class AppModule { }
 ### Adding style for chart 
 #### styles.css 
 ```css
-@import "~angular-advance-chart/styles.scss";
+@import "~angular-advance-chart/styles.css";
 
 ```
 
@@ -153,6 +153,3 @@ export class AppModule { }
     stroke-width: 55px;
 }
 ```
-## License
-
-[![GitHub license](https://img.shields.io/github/license/SomeshKb/angular-advance-chart)](https://github.com/SomeshKb/angular-advance-chart/blob/main/LICENSE)
