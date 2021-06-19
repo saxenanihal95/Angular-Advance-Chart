@@ -27,6 +27,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+    "start-dev":"ng build angular-advance-chart --prod && npm start",
     "build-chart": "ng build angular-advance-chart --prod"
   },
   "private": true,
