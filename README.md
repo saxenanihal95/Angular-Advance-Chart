@@ -3,10 +3,9 @@
 
 [![npm version](https://badge.fury.io/js/angular-advance-chart.svg)](https://badge.fury.io/js/angular-advance-chart)
 
-
 [![GitHub stars](https://img.shields.io/github/stars/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/SomeshKb/angular-advance-chart)](https://github.com/SomeshKb/Angular-Advance-Chart/issues)
-
+[![GitHub issues](https://img.shields.io/github/issues/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/issues)
+[![GitHub forks](https://img.shields.io/github/forks/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/network)
 
 ![alt text](https://github.com/SomeshKb/Angular-Advance-Chart/blob/main/images/bar-graph.png?raw=true)
 ![alt text](https://github.com/SomeshKb/Angular-Advance-Chart/blob/main/images/horizontal-bar-graph.png?raw=true)
@@ -153,3 +152,7 @@ export class AppModule { }
     stroke-width: 55px;
 }
 ```
+
+
+## License
+[![GitHub license](https://img.shields.io/github/license/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/blob/main/LICENSE)
