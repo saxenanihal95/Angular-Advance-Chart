@@ -1,7 +1,8 @@
 # Angular Advance Chart
 
 
-[![npm version](https://badge.fury.io/js/angular-advance-chart.svg)](https://badge.fury.io/js/angular-advance-chart)
+![npm](https://img.shields.io/npm/v/angular-advance-chart)
+![npm](https://img.shields.io/npm/dt/angular-advance-chart)
 
 [![GitHub stars](https://img.shields.io/github/stars/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/issues)
@@ -16,7 +17,7 @@
 
 ## Installation
 
-To use ngx-chatbox in your project install it via [npm](https://www.npmjs.com/package/angular-advance-chart):
+To use angular-advance-chart in your project install it via [npm](https://www.npmjs.com/package/angular-advance-chart):
 
 ```bash
 npm i angular-advance-chart
