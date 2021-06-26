@@ -1,8 +1,8 @@
 # Angular Advance Chart
 
 
-![npm](https://img.shields.io/npm/v/angular-advance-chart)
-![npm](https://img.shields.io/npm/dt/angular-advance-chart)
+[![npm](https://img.shields.io/npm/v/angular-advance-chart)](https://www.npmjs.com/package/angular-advance-chart)
+[![npm](https://img.shields.io/npm/dt/angular-advance-chart)](https://www.npmjs.com/package/angular-advance-chart)
 
 [![GitHub stars](https://img.shields.io/github/stars/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/SomeshKb/Angular-Advance-Chart)](https://github.com/SomeshKb/Angular-Advance-Chart/issues)
